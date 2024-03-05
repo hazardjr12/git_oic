@@ -1,0 +1,130 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url("goat.jpg");
+    background-size: cover;
+}
+
+.nav1{
+   background-color: orangered;
+    color: white;
+    padding: 5px 50px;
+    font-size: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+header a{
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+} 
+div{
+    margin-left: 1000px;
+}
+nav{
+    border: 2px solid white;
+    border-bottom: 5px;
+    background-color: white;
+    padding: 10px 50px;
+}
+
+ul{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+
+}
+li{
+    display: inline;
+    list-style-type: none;
+    margin: 5px;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+}
+#rep{
+    color: red;
+}
+.rep{
+    color: red;
+}
+.pet{
+    border: 2px solid red;
+    padding: 10px;
+}
+span{
+    margin-left: 200px;
+} 
+span li{
+    margin-left: 50px;
+}
+.hot{
+    color: orangered;
+    font-size: 35px;
+}
+h1,
+#ser,
+#seri,
+#seru,
+#serv{
+    color: white;
+    margin: 20px;
+}
+section{
+    margin-top: 120px;
+    margin-left: 90px;
+}  
+.find{
+    border: 2px solid blue;
+    border-width: 2px;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin: 25px;
+}
+.fa-hotel,
+.fa-location-dot,
+.fa-dollar-sign,
+.fa-comments{
+    margin-right: 20px;
+
+}
+.dog{
+    border: 2px solid orangered;
+    color: white;
+    padding: 7px;
+    background-color: orangered;
+    margin-left: 100px;
+}
+.rtg{
+    border: 2px solid grey;
+    background-color: grey;
+    padding: 7px;
+}
+footer {
+    background-color: white;
+    border: 2px solid white;
+    padding: 35px;
+    display: inline-flex;
+    position: relative;
+    top: -20px;
+}
+#button{
+    background-color: inherit;
+    color: red;
+    border: 1px solid red;
+    padding: 5px;
+}
+footer article{
+    border: 2px solid black;
+     padding: 15px; 
+
+    
+}
+article a{
+
+}

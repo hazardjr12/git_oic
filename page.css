@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: linear-gradient(-360deg, blue 20%, rgb(0, 225, 225) 50%);
+    height: 640px;
+}
+section{
+    display: inline-block;
+    height: 550px;
+    position: fixed;
+    margin-left: 500px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: white;
+    width: 20%;
+    padding-top: 15px ;
+}
+div{
+    text-align: center; 
+    background-color: white; 
+    display: inline-flexbox;
+    position: fixed;
+    height: 300px;
+    margin-left: 350px;
+    width: 28%;
+    padding-top: 15px;
+    margin-top: 200px;
+}
+aside{
+    position: fixed ;
+     top: 350px; 
+    display: block;
+    background-color: white;
+    text-align: center;
+    margin-left: 350px;
+    height: 160px;
+    width: 28%;
+    padding-top: 15px;
+}
+ul{
+    list-style-type: none;
+    word-spacing: 15px;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+footer{
+    border: 2px solid white;
+    padding: 20px;
+    background-color: white;
+    margin-top: 540px;
+    display: block;
+    position: fixed;
+    width: 100%;
+    padding-bottom: 10px;
+}
+li{
+    display: inline;
+    text-align: center;
+    
+}
+input{
+    background-color: whitesmoke;
+    padding: 8px;
+    /* width: 200px; */
+}
+.ludo{
+    margin-left: 75px;
+    
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+.box:focus{
+    color: aqua;
+    background-color: wheat;
+}
+.fire{
+    width: 220px;
+    border: 0.5px solid whitesmoke;
+}
+.sig,
+.geek,
+.reco{
+    font-weight: 600;
+    color: rgb(18, 18, 165);
+}
+#nid{
+    border: 1px solid whitesmoke;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+#nud{
+    border: 2px solid grey;
+    background-color: whitesmoke;
+}
+#nod{
+    border: 2px solid red;
+    background-color: whitesmoke;
+}
+.valie,
+#valie{
+    border: 0.5px solid whitesmoke;
+    border-radius: 15px;
+    background-color: rgb(0, 0, 255);
+    color: white;
+} 
+.fa-eye{
+    margin-left: -5px;
+}
+.fa-lock{
+    margin-right: -10px;
+}   
